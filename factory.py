@@ -27,7 +27,8 @@ if page == "Home":
     
     # Placeholder for Image
     st.header("Visual Representation")
-    st.write("Image Placeholder")
+    st.write("Image Placeholde")
+    st.image("microfactory/ull.png", caption="UCL", use_container_width=True)
     
     # Target Audience
     st.header("Target Audience")
