@@ -17,9 +17,9 @@ else:
 
     # Survey form
     st.header("Final Rating and Preference")
-    rating_1 = st.slider("Rate Picture 1 (1 to 5)", 1, 5, key="rating_1")
-    rating_2 = st.slider("Rate Picture 2 (1 to 5)", 1, 5, key="rating_2")
-    preference = st.radio("Which design do you prefer?", ["Picture 1", "Picture 2"], key="preference")
+    rating_1 = st.slider("Rate Concept 1 (1 to 5)", 1, 5, key="rating_1")
+    rating_2 = st.slider("Rate Concept 2 (1 to 5)", 1, 5, key="rating_2")
+    preference = st.radio("Which design do you prefer?", ["Concept 1", "Concept 2"], key="preference")
     preference_reason = st.text_area("Reason for Preference", key="preference_reason")
 
     if st.button("Submit"):
