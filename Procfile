@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run factory.py
+web: sh setup.sh && streamlit run Home.py
