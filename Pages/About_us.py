@@ -19,7 +19,7 @@ Abdullah is a skilled production technologist with expertise in optimizing manuf
 designing practical solutions for food production systems. His work focuses on developing efficient 
 production methods and integrating user-friendly designs into educational and commercial environments. 
 
-Abdullah has played a key role in designing microfactory layouts for plant-based yogurt production, 
+Abdullah has also played a key role in designing microfactory layouts for plant-based yogurt production, 
 ensuring that the systems are scalable, efficient, and adaptable to various needs. His ability to balance 
 technical precision with practical usability makes him a valuable contributor to the field of sustainable 
 production technology.
