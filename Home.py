@@ -1,5 +1,4 @@
 import streamlit as st
-  st.image("Pictures/ucl.png", caption="UCL", use_container_width=True)
 
 
 # Home Page
